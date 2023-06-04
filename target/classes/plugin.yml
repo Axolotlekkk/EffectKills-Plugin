@@ -1,0 +1,5 @@
+name: EffectKills
+version: '1.0'
+main: xyz.axo.effect.effectkills.EffectKills
+api-version: 1.13
+author: Axolotlekkk
